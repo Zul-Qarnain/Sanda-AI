@@ -56,7 +56,7 @@ SYSTEM_PROMPT = (
 )
 # Best models for savage responses (choose one):
 # GROQ_MODEL = "llama-3.3-70b-versatile"  # Most capable, best for creative responses
-GROQ_MODEL = "llama3-70b-8192"            # Good balance of capability and speed
+GROQ_MODEL = "qwen3-32b"            # Good balance of capability and speed
 # GROQ_MODEL = "llama3-8b-8192"           # Faster but less sophisticated
 
 # Test Groq API connection
