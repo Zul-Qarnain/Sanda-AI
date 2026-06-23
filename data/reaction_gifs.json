@@ -1,0 +1,82 @@
+[
+{
+"gif_name": "goofy_hamster_missing_teeth",
+"emotion": "awkward",
+"description": "Black and white hamster with mouth open and missing teeth.",
+"ai_trigger": ["awkward moment", "cringe", "embarrassing", "what did I just read", "social fail"],
+"gif_url": "https://tenor.com/view/hamster-meme-goofy-hamster-gif-9362610808603976595",
+"tenor_id": "9362610808603976595"
+},
+{
+"gif_name": "angry_smoke_hamster",
+"emotion": "angry",
+"description": "Hamster with smoke coming from its mouth.",
+"ai_trigger": ["rage", "frustration", "annoyed", "this is ridiculous", "angry response"],
+"gif_url": "https://tenor.com/view/hamster-angry-hamster-pissed-hamster-almarts27-almarts27-hamster-gif-11717241442082625890",
+"tenor_id": "11717241442082625890"
+},
+{
+"gif_name": "happy_lollipop_hamster",
+"emotion": "happy",
+"description": "Hamster wearing a hat and holding a lollipop.",
+"ai_trigger": ["good news", "celebration", "victory", "success", "achievement"],
+"gif_url": "https://tenor.com/view/silly-sili-happy-gif-16220622256217289040",
+"tenor_id": "16220622256217289040"
+},
+{
+"gif_name": "birthday_cartoon_character",
+"emotion": "happy",
+"description": "Cartoon character often associated with birthday or good night wishes.",
+"ai_trigger": ["happy birthday", "good night", "greetings", "celebration", "special occasion"],
+"gif_url": "https://tenor.com/view/mac-jones-september-11-happy-birthday-good-night-gif-1938565721637505019",
+"tenor_id": "1938565721637505019"
+},
+{
+"gif_name": "triangle_face_meme",
+"emotion": "confused",
+"description": "Triangle character with a face and pink nose.",
+"ai_trigger": ["confused", "what", "doesn't make sense", "random meme", "brain not working"],
+"gif_url": "https://tenor.com/view/meme-gif-8074579597032415784",
+"tenor_id": "8074579597032415784"
+},
+{
+"gif_name": "tongue_out_hamster",
+"emotion": "silly",
+"description": "Character sticking tongue out playfully.",
+"ai_trigger": ["teasing", "silly response", "just kidding", "playful", "goofy"],
+"gif_url": "https://tenor.com/view/hamster-gif-18263821428179564935",
+"tenor_id": "18263821428179564935"
+},
+{
+"gif_name": "cookie_eating_hamster",
+"emotion": "cute",
+"description": "White hamster eating a cookie.",
+"ai_trigger": ["snack time", "cute moment", "relaxing", "enjoying life", "wholesome"],
+"gif_url": "https://tenor.com/view/hamster-gif-2673806970653735421",
+"tenor_id": "2673806970653735421"
+},
+{
+"gif_name": "crying_hamster",
+"emotion": "crying",
+"description": "Hamster crying with tears streaming down its face.",
+"ai_trigger": ["emotional damage", "sad news", "heartbreak", "failure", "pain"],
+"gif_url": "https://tenor.com/view/cry-hamster-gif-9707865215915164681",
+"tenor_id": "9707865215915164681"
+},
+{
+"gif_name": "glasses_paper_meme",
+"emotion": "suspicious",
+"description": "Person wearing glasses and examining a paper.",
+"ai_trigger": ["checking facts", "proof?", "show evidence", "investigating", "skeptical"],
+"gif_url": "https://tenor.com/view/meme-gif-16775254502690605469",
+"tenor_id": "16775254502690605469"
+},
+{
+"gif_name": "stronk_flex_ghost",
+"emotion": "proud",
+"description": "Ghost-like character flexing muscles.",
+"ai_trigger": ["achievement unlocked", "I did it", "strong", "success", "confidence"],
+"gif_url": "https://tenor.com/view/stronk-gif-101565265336066049",
+"tenor_id": "101565265336066049"
+}
+]
